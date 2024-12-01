@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159989683330",
+    "project_id": "messaging-task-c40be",
+    "storage_bucket": "messaging-task-c40be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159989683330:android:b38230e723bade4872909b",
+        "android_client_info": {
+          "package_name": "com.example.messaging_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhy7HJid0MsW8xrbFvGQ7j5iOR25z8y3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
