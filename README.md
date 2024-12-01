@@ -4,15 +4,6 @@
 
 ---
 
-### README File for **Messaging Task**
-
-```markdown
-# Messaging Task
-
-Messaging Task is a Flutter application that showcases Firebase Cloud Messaging (FCM) integration for handling real-time push notifications. Users can subscribe to channels and receive notifications, with data persistence and dynamic UI updates. The project ensures robust notification handling across all app states, including foreground, background, and terminated.
-
----
-
 ## Table of Contents
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
